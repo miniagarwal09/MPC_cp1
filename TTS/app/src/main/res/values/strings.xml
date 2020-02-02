@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TTS</string>
+    <string name="low_storage_error">Low Storage</string>
+    <string name="no_camera_permission">No Camera Permission</string>
+    <string name="ok">Ok</string>
+    <string name="ocr_success">OCR Success</string>
+    <string name="ocr_failure">OCR Failure</string>
+    <string name="ocr_error">"Error reading text: %1$s"</string>
+</resources>
